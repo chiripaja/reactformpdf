@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactformpdf/static/css/main.69e11c81.css",
+    "main.js": "/reactformpdf/static/js/main.2f141d7a.js",
+    "static/js/498.a44b9733.chunk.js": "/reactformpdf/static/js/498.a44b9733.chunk.js",
+    "static/js/703.f80539e1.chunk.js": "/reactformpdf/static/js/703.f80539e1.chunk.js",
+    "static/js/26.0f79e995.chunk.js": "/reactformpdf/static/js/26.0f79e995.chunk.js",
+    "index.html": "/reactformpdf/index.html",
+    "main.69e11c81.css.map": "/reactformpdf/static/css/main.69e11c81.css.map",
+    "main.2f141d7a.js.map": "/reactformpdf/static/js/main.2f141d7a.js.map",
+    "498.a44b9733.chunk.js.map": "/reactformpdf/static/js/498.a44b9733.chunk.js.map",
+    "703.f80539e1.chunk.js.map": "/reactformpdf/static/js/703.f80539e1.chunk.js.map",
+    "26.0f79e995.chunk.js.map": "/reactformpdf/static/js/26.0f79e995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e11c81.css",
+    "static/js/main.2f141d7a.js"
+  ]
+}
